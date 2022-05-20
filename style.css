@@ -562,6 +562,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 #lightbox-modal .modal-dialog {
@@ -774,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #000000!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -1032,4 +1033,18 @@ h4 {
 }
 footer .fa{
     color: #000000;
+}
+.lightbox-image
+{
+    align-items: center;
+}
+.modal-body{
+    display: flex;
+    align-items: center;
+}
+#titrepage2{
+    color: black;
+}
+.tcblack{
+    color: #000000!important;
 }
